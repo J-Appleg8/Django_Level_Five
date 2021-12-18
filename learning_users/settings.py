@@ -17,7 +17,7 @@ SECRET_KEY = "django-insecure-wp9&3i+t5qy63$1%=2a_jamb3zb359*a)q4g-pz47c^-$g&05s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["wondertwin.pythonanywhere.com"]
 
 
 # Application definition
